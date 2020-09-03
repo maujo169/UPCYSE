@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AJUSTES">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAggAgAAAAAACAAAAAgAwIAECAIAQCgAAACAgAAI=</HashCode>
+      <FileName>AJUSTES.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BASE">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ESAACAAAAAQAgQCAAgAGACAEBFAAABVkAAhiAGgAAAA=</HashCode>
+      <FileName>BASE.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JUGADOR">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAICAAAACRAIAAAAAAAAIAAEAAAAgCgAAAAAEEAAAA=</HashCode>
+      <FileName>JUGADOR.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ENEMIGO">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASACAAAACRIIAiAAAAAAIAAAAAAAAAAABAAgAAAChA=</HashCode>
+      <FileName>ENEMIGO.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BALA">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAQAAAAAAAAAAEAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BALA.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MUNDO">
+    <Position X="7.75" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>QQAACQAgAgBbACQCAAAACAIAIgAIgiACgaIACQAAAEI=</HashCode>
+      <FileName>MUNDO.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="DIRECCION">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQCAAAAAA=</HashCode>
+      <FileName>BASE.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

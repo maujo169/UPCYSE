@@ -1,0 +1,12 @@
+DESARROLLADO POR:
+	- MAURICIO CASTILLO
+	- EDSON PAREDES
+
+TECLAS:
+	- Desplazamiento con teclas direccionales
+	- Disparo con Q
+	- Recoger desechos con W (VALIDO SOLO PARA NIVEL 2)
+	- Si desea cambiar de mapa para evaluar mas rapido las teclas 1, 2, 3, 4 representan los niveles.
+		(Si presiona la tecla 4, saldran las felicitaciones por ganar el juego)
+	- Si desea no morir para evaluar mejor el funcionamiento del juego, oprima la tecla 5.
+		(Las vidas van a disminuir, pero no saldrá del juego).
